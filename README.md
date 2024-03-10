@@ -6,4 +6,4 @@ BIGG BOSS LIVE STREAMING SITE
 * [![WATCH](https://img.shields.io/static/v1?label=WATCH+LIVE&message=DOWN+LINK&color=critical)](vlc://https://tinyurl.com/2r4x53rt)
 
 
-<div class='sk-ww-twitch-live-videos' data-embed-id='25378896'></div><script src='https://widgets.sociablekit.com/twitch-live-videos/widget.js' async defer></script>
+<a<div class='sk-ww-twitch-live-videos' data-embed-id='25378896'></div><script href='https://widgets.sociablekit.com/twitch-live-videos/widget.js' async defer></script></a>
