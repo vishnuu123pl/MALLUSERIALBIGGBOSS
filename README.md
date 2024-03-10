@@ -4,4 +4,6 @@ BIGG BOSS LIVE STREAMING SITE
 
 
 * [![WATCH](https://img.shields.io/static/v1?label=WATCH+LIVE&message=DOWN+LINK&color=critical)](vlc://https://tinyurl.com/2r4x53rt)
-[Note To A So Called Dev](vlc://https://tinyurl.com/2r4x53rt):
+
+
+<a href="vlc://https://tinyurl.com/2r4x53rt">CLICK HERE TO WATCH LIVE. </a>
